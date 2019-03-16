@@ -84,29 +84,5 @@
 
 5. 项目使用了lombok，请先用idea安好lombok插件
 
-#### 图片参考
 
-1. 后台系统页面
 
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2018-12-27_23-44-43.png)
-
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2018-12-27_23-45-09.png)
-
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2018-12-27_23-45-25.png)
-
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2018-12-27_23-45-45.png)
-
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2018-12-27_23-45-57.png)
-
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2018-12-27_23-46-06.png)
-
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2018-12-27_23-46-18.png)
-
-2. 易语言sdk
-
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2019-01-02_22-15-10.png)
-
-3. 易语言demo
-
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2019-01-17_17-45-21.png)
-![描述](https://open-source-orange.oss-cn-hangzhou.aliyuncs.com/%E7%A0%81%E4%BA%91/verify-%E7%BD%91%E7%BB%9C%E9%AA%8C%E8%AF%81/Snipaste_2019-01-17_17-45-50.png)
